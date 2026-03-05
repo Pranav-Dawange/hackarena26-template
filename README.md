@@ -5,29 +5,21 @@
 
 ## Team Details
 
-- **Team Name:**
-- **Members:**
-- **Domain:**
+- **Team Name:Invictus**
+- **Members: Pranav Dawange, Bhavik Chhoriya, Rudrasingh Dikshit, Atharva Agey**
+- **Domain:Iot-Infra**
 
 ---
 
 ## Project
 
-**Problem:** 
+**Problem:LastInch MeshBridge** 
 
-**Solution:** 
-
----
-
-## Rules to Remember
-
-- All development must happen **during** the hackathon only
-- Push code **regularly** — commit history is monitored
-- Use only open-source libraries with compatible licenses and **credit them**
-- Only **one submission** per team
-- All members must be present **both days**
+**Solution:LastInch MeshBridge uses multiple ESP32 devices to create a self-healing mesh network across a smart campus. The ESP32-CAM provides surveillance, while sensors like PIR (motion detection) and DHT22 (temperature & humidity monitoring) collect environmental data. Relay nodes forward data between devices, and a gateway node sends all information to a dashboard or server. If any node fails, the mesh network automatically finds another path, ensuring continuous monitoring, reduced Wi-Fi dead zones, and reliable connectivity without depending on a single router.** 
 
 ---
+
+
 
 ## Attribution
 
